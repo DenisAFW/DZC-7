@@ -1,0 +1,15 @@
+D:\GitLessons\SeminarsC#\DZC#7\Task2\bin\Debug\net6.0\Task2.exe
+D:\GitLessons\SeminarsC#\DZC#7\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\GitLessons\SeminarsC#\DZC#7\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\GitLessons\SeminarsC#\DZC#7\Task2\bin\Debug\net6.0\Task2.dll
+D:\GitLessons\SeminarsC#\DZC#7\Task2\bin\Debug\net6.0\Task2.pdb
+D:\GitLessons\SeminarsC#\DZC#7\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\GitLessons\SeminarsC#\DZC#7\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitLessons\SeminarsC#\DZC#7\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\GitLessons\SeminarsC#\DZC#7\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\GitLessons\SeminarsC#\DZC#7\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\GitLessons\SeminarsC#\DZC#7\Task2\obj\Debug\net6.0\Task2.dll
+D:\GitLessons\SeminarsC#\DZC#7\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\GitLessons\SeminarsC#\DZC#7\Task2\obj\Debug\net6.0\Task2.pdb
+D:\GitLessons\SeminarsC#\DZC#7\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\GitLessons\SeminarsC#\DZC#7\Task2\obj\Debug\net6.0\ref\Task2.dll
